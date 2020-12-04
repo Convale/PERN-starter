@@ -1,0 +1,5 @@
+const ACCESS_TOKEN_EXPIRATION = 3600;
+
+module.exports = {
+  ACCESS_TOKEN_EXPIRATION,
+};
